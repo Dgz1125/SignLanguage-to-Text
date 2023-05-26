@@ -1,36 +1,4 @@
-/*
-Google LLC. initially published the source code
-in two Github repositories
 
- https://github.com/tensorflow/tfjs-models/tree/master/posenet
- https://github.com/tensorflow/tfjs-examples/tree/master/webcam-transfer-learning
-
-and licensed the code under the Apache License, Version 2.0.
-
-MONTREAL.AI modified the code to make it suitable for a new use.
-The modifications to the code are the differences between
-the original code above-referenced and the code herein.
-Thank You to the TensorFlow.js team and contributors.
-*/
-
-/**
- * @license
- * Copyright 2018 MONTREAL.AI. All Rights Reserved.
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licnses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- * =============================================================================
- */
-// import * as tf from '@tensorflow/tfjs';
-// import * as posenet from '@tensorflow-models/posenet';
 
 const color = 'aqua';
 const lineWidth = 2;
