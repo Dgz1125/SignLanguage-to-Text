@@ -132,7 +132,7 @@ async function predict() {
 }
 
 document.getElementById('train').addEventListener('click', async () => {
-  ui.trainStatus('Training...');
+  ui.trainStatus('训练模型中...');
   await tf.nextFrame();
   await tf.nextFrame();
   isPredicting = false;
